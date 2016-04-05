@@ -3,6 +3,10 @@ import sys
 from datetime import datetime
 import twtFunc as tF
 
+# unit tests
+# hashtags = [['spark','insight'],['democracy','election','spark'],['insight','apache','hadoop'],['official','cruz','trump','big'],['whatever','trump'],['insight','python','spark'],['hurricane','spark','clinton'],['aws','django','numpy'],['editor','spark','pop'],[' ','hadoop','pop']]
+# times = ["Sun May 31 01:01:56 +0000 2016","Sun May 30 01:01:15 +0000 2016","Sun May 30 01:01:26 +0000 2016","Sun April 30 15:33:45 +0000 2016","Sun May 30 01:01:00 +0000 2015","Sun May 30 02:00:15 +0000 2016","Sun May 30 01:02:30 +0000 2016","Fri Oct 30 15:34:45 +0000 2015","Fri Oct 30 15:35:00 +0000 2015","Fri Oct 30 15:35:15 +0000 2015"]
+
 def avgDegree(tweet_input,tweet_output):
 
     # Read inputs:
