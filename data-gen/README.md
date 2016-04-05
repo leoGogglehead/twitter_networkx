@@ -1,3 +1,5 @@
+(From the Insight Coding Challenge Repo)
+
 # Data Generator with Real Twitter Data
 This directory containes a data generator that connects to the live Twitter stream, collects tweets and saves them to a file as described in the coding challenge directions.  
 
